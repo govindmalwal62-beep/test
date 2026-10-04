@@ -1,1 +1,3 @@
 
+const API_KEY = "AIzaSyDUMMYTESTKEY123456789";
+console.log(API_KEY);
